@@ -29,6 +29,9 @@ const seardWord = searchstringlyrics2.includes(searchstringLowerCase);
 console.log(seardWord);
 
 
+console.log(lyrics2.indexOf("parene"));
+
+
 
 
 
