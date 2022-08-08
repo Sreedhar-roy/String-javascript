@@ -13,3 +13,8 @@ for(i=text2.length-1; i>=0; i--){
     const element2 = text2[i];
     console.log(element2);
 }
+
+//==========================
+
+const sectenceOneline = 'i am a student of class five';
+str[2];
